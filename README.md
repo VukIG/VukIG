@@ -1,16 +1,52 @@
-### Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<p align="center">
+  A passionate software developer specializing in React.js, Vite, JSON, HTML, CSS, Tailwind CSS, and npm.
+</p>
 
-<!--
-**VukIG/VukIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social" alt="GitHub Follow">
+  </a>
+  <a href="https://linkedin.com/in/YourLinkedInUsername">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Connect">
+  </a>
+  <a href="https://twitter.com/YourTwitterUsername">
+    <img src="https://img.shields.io/twitter/follow/YourTwitterUsername?style=social" alt="Twitter Follow">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Skills Section -->
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/json.png" alt="JSON" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Portfolio Section -->
+<h2 align="center">Portfolio</h2>
+<p align="center">
+  <!-- Add your project screenshots and links here -->
+</p>
+
+<!-- Contact Section -->
+<h2 align="center">Contact Me</h2>
+<p align="center">
+  Let's connect and collaborate! Feel free to reach out to me on <a href="mailto:youremail@example.com">email</a>.
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub" width="32" height="32"/>
+  <a href="https://github.com/YourGitHubUsername">GitHub</a> |
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="32" height="32"/>
+  <a href="https://linkedin.com/in/YourLinkedInUsername">LinkedIn</a> |
+  <img src="https://img.icons8.com/cotton/64/000000/gmail-new.png" alt="Email" width="32" height="32"/>
+  <a href="mailto:youremail@example.com">Email</a>
+</p>
