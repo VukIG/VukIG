@@ -1,50 +1,28 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Vuk 👋</h1>
-<p align="center">
-  A high schooler passionate about software development specializing in Front end technologies.
+<h1 align="center">Hi 👋, I'm Vuk Ignjatovic</h1>
+<h3 align="center">A passionate frontend developer from Serbia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vukig&label=Profile%20views&color=0e75b6&style=flat" alt="vukig" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vukig" alt="vukig" /></a> </p>
+
+- 🔭 I’m currently working on **an Internship**
+
+- 🌱 I’m currently learning **FireBase**
+
+- 👯 I’m looking to collaborate on **FullStack projects**
+
+- 🤝 I’m looking for help with **Bloggster**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vuk-ignjatovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vuk-ignjatovic" height="30" width="40" /></a>
 </p>
 
-<!-- Social Media Badges -->
-<p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social" alt="GitHub Follow">
-  </a>
-  <a href="https://linkedin.com/in/YourLinkedInUsername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Connect">
-  </a>
-  <a href="https://twitter.com/YourTwitterUsername">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterUsername?style=social" alt="Twitter Follow">
-  </a>
-</p>
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img src="./img/icons8-react-native-96.png" alt="React.js" width="40" height="40"/>
-  <img src="./img/icons8-vite-96.png" alt="Vite" width="40" height="40"/>
-  <img src="./img/icons8-json-96.png" alt="JSON" width="40" height="40"/>
-  <img src="./img/icons8-html-5-96.png" alt="HTML" width="40" height="40"/>
-  <img src="./img/icons8-css-96.png" alt="CSS" width="40" height="40"/>
-  <img src="./img/icons8-tailwind-css-96.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="./img/icons8-npm-96.png" alt="npm" width="40" height="40"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- Portfolio Section -->
-<h2 align="center">Portfolio</h2>
-<p align="center">
-  <!-- Add your project screenshots and links here -->
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vukig&show_icons=true&locale=en&layout=compact" alt="vukig" /></p>
 
-<!-- Contact Section -->
-<h2 align="center">Contact Me</h2>
-<p align="center">
-  Let's connect and collaborate! Feel free to reach out to me on <a href="mailto:youremail@example.com">email</a>.
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vukig&show_icons=true&locale=en" alt="vukig" /></p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub" width="32" height="32"/>
-  <a href="https://github.com/YourGitHubUsername">GitHub</a> |
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="32" height="32"/>
-  <a href="https://linkedin.com/in/YourLinkedInUsername">LinkedIn</a> |
-  <img src="https://img.icons8.com/cotton/64/000000/gmail-new.png" alt="Email" width="32" height="32"/>
-  <a href="mailto:youremail@example.com">Email</a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vukig&" alt="vukig" /></p>
