@@ -1,7 +1,7 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Vuk 👋</h1>
 <p align="center">
-  A passionate software developer specializing in React.js, Vite, JSON, HTML, CSS, Tailwind CSS, and npm.
+  A high schooler passionate about software development specializing in Front end technologies.
 </p>
 
 <!-- Social Media Badges -->
@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/twitter/follow/YourTwitterUsername?style=social" alt="Twitter Follow">
   </a>
 </p>
-
-<!-- Skills Section -->
 <h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/react.png" alt="React.js" width="40" height="40"/>
