@@ -18,13 +18,13 @@
 </p>
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/json.png" alt="JSON" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"/>
+  <img src="./img/icons8-react-native-96.png" alt="React.js" width="40" height="40"/>
+  <img src="./img/icons8-vite-96.png" alt="Vite" width="40" height="40"/>
+  <img src="./img/icons8-json-96.png" alt="JSON" width="40" height="40"/>
+  <img src="./img/icons8-html-5-96.png" alt="HTML" width="40" height="40"/>
+  <img src="./img/icons8-css-96.png" alt="CSS" width="40" height="40"/>
+  <img src="./img/icons8-tailwind-css-96.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="./img/icons8-npm-96.png" alt="npm" width="40" height="40"/>
 </p>
 
 <!-- Portfolio Section -->
