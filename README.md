@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vukig&label=Profile%20views&color=0e75b6&style=flat" alt="vukig" /> </p>
 
-- 🔭 I’m currently working on **an Internship**
+- 🔭 I’m currently working on **Building a voice recognition application**
 
-- 🌱 I’m currently learning **FireBase**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **FullStack projects**
 
