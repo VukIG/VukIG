@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vukig&label=Profile%20views&color=0e75b6&style=flat" alt="vukig" /> </p>
 
-- 🔭 I’m currently working on **Building a AI-powered Custom Clothing E-commerce platform**
+- 🔭 I’m currently working on **Building an AI model for melanoma detection**
 
-- 🌱 I’m currently learning **React-Three-Fiber**
+- 🌱 I’m currently learning **Tensorflow & python**
 
-- 👯 I’m looking to collaborate on **FullStack projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
