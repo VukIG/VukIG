@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Tensorflow & python**
 
-- 👯 I’m looking to collaborate on **FullStack AI projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
